@@ -88,3 +88,7 @@ Gólyabál (10. közepe)
 
 ACM (?)
 - https://cs.bme.hu/acm/
+
+Memes
+- https://www.facebook.com/BMEmeme3/
+- https://www.bmeme.hu/
